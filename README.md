@@ -25,6 +25,12 @@ it is also evaluated on its ability to navigate one of the tracks in the simulat
 4. For Integration with Udacity Simulator (through Python File Drive.py) uses a client-server architecture with socket.io Server and Flask library
 
 
+****Folder Information****
+1. ***beta_simulator_windows:*** it provides the Udacity Simulator that can be downloaded free - as it is open source
+2. ***Dataset:*** it provides the Dataset for each track: The Jungle Track and The Lake Trak. It contains an Image and CSV File for Exploratory Data Analysis **(EDA)**
+3. ***Python_File:*** it contains a Colab/Notebook File (with format **.ipnyb**) for each Machine Learning model for each Track that used. Beside that on this folder has Python File **Drive.py** for integrating Simulator Udacity and its Machine Learning Models
+   
+
 ***Libraries Requires:***
 
 *1. TensorFlow*
